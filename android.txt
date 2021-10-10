@@ -1,0 +1,54 @@
+Android is better than ios.
+
+Developer - Various, mostly Google and Open Handset Alliance.
+
+Initial release	- September 23, 2008.
+
+Latest stable release and Updates - Android 11.
+
+Customizability	- Limited unless jailbroken.
+
+Source model - Open source.
+
+File transfer - Easier than iOS. Using USB port and Android File Transfer desktop app. Photos can be transferred via USB without apps.
+
+Widgets - Yes, except on lockscreen.
+
+Internet browsing - Google Chrome (other browsers are available). Any browser app can be set as default. Ad blocking is supported with Firefox.
+
+Web mapping service - Google Maps.
+
+Available language(s) - 100+ languages.
+
+Video chat	Google Meet and other 3rd party apps.
+
+Virtual assistant - Google Assistant.
+
+Available on - Many phones and tablets. Major manufacturers such as Samsung, Oppo, OnePlus, Vivo, Honor and Xiaomi. Android One devices are pure Android. Pixel line of devices is made by Google, using a almost pure version of Android.
+
+Calls and messaging - Google Messages. 3rd party apps like Facebook Messenger, WhatsApp, Google Duo, Discord and Skype all work on Android and iOS both.
+
+App store , Affordability and interface - Google Play Store – 2,000,000+ apps. Other app stores like Amazon and Aptoide also distribute Android apps. (".APKs"). Apps containing virus rare, but existing.
+
+Alternative app stores and side loading - Several alternative app stores other than the official Google Play Store. (e.g. Aptoide, Galaxy Apps)
+
+Battery life and management - Many but not all Android phone manufacturers equip their devices with large batteries with a longer life.
+
+Open source - Kernel (Based on Linux), UI, and some standard apps.
+
+File manager - Yes. (Stock Android File Manager included on devices running Android 7.1.1).
+
+Photos & Videos backup - Apps available for automatic backup of photos and videos. Google Photos allows unlimited backup of photos at a compressed quality. OneDrive, Amazon Photos and Dropbox are other alternatives.
+
+Security - Monthly security updates. Android software patches are available soonest to Pixel device users. Manufacturers tend to lag behind in pushing out these updates. So at any given time a vast majority of Android devices are running outdated OS software.
+
+Rooting, bootloaders, and jailbreaking - Access and complete control over your device is available and you can unlock the bootloader.
+
+Cloud services - Native integration with Google Drive storage. 15GB free, $2/mo for 100GB, 1TB for $10. Apps available for Amazon Photos, OneDrive and Dropbox.
+
+Interface - Touch Screen.
+
+Biometric Authentication - Fingerprint and/or Face Authentication. Availability depends on manufacturer's hardware.
+
+OS family - Linux
+Headphone Jack	- Some current Android smartphones and many don't.

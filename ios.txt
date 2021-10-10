@@ -1,0 +1,55 @@
+IOS is better than android.
+
+Developer - Apple Inc.
+
+Initial release	- July 29, 2007.
+
+Latest stable release and Updates - iOS 14.1 and iPadOS 14.1.
+
+Customizability	- Limited unless jailbroken.
+
+Source model - Closed, with open source components.
+
+File transfer - More difficult. Media files can be transferred using iTunes desktop app. Photos can be transferred out via USB without apps.
+
+Widgets	- Yes, except on lockscreen.
+
+Internet browsing - Safari. Any browser app can be set as default but they all use the same rendering engine (Safari/Webkit) behind the scenes. Ad blocking is supported via content blockers like Firefox Focus.
+
+Web mapping service - Apple Maps (default). Google Maps also available via a separate app download, but not as default.
+
+Available language(s) - 40 languages.
+
+Video chat - FaceTime (Apple devices only) and other 3rd party apps.
+
+Virtual assistant - Siri.
+
+Available on - iPod Touch, iPhone, iPad, Apple TV (2nd and 3rd generation).
+
+Calls and messaging - iMessage, FaceTime (with other Apple devices only). 3rd party apps like Google Hangouts, Facebook Messenger, WhatsApp, Google Duo, Discord and Skype all work on Android and iOS both.
+
+App store , Affordability and interface	- Apple App Store – 1,000,000+ apps. Apps containing virus very rare or nonexistent.
+
+Alternative app stores and side loading	- Apple blocks 3rd party app stores. The phone needs to be jailbroken if you want to download apps from other stores.
+
+Battery life and management - Apple batteries are generally not as big as the largest Android batteries. However, Apple is able to squeeze decent battery life via hardware/software optimizations.
+
+Open source - The iOS kernel is not open source but is based on the open-source Darwin OS.
+
+File manager - Files app, limited and less useful (iOS 12).
+
+Photos & Videos backup - Up to 5 GB of photos and videos can be automatically back up with iCloud, more paid iCloud storage available via subscription. All other vendors like Google, Amazon, Dropbox, Flickr and Microsoft have auto-backup apps for both iOS and Android.
+
+Security - Occasional security updates. Security threats rare, because iOS is locked and downloading apps out of the App Store is complicated.
+
+Rooting, bootloaders, and jailbreaking - Complete control over your device is not available.
+
+Cloud services - Native integration with iCloud. 5GB free, 50GB for $1/mo, 200GB for $3/mo, 1TB for $10/mo. Apps available for Google Drive and Google Photos, Amazon Photos, OneDrive and Dropbox.
+
+Interface - Touch Screen
+
+Biometric Authentication - Fingerprint or Face Authentication. Touch ID available on iPhone (5s and later) and iPad (Air 2 and later) but not on iPhone X or later. Face ID available on iPhone X and later, replacing Touch ID
+
+OS family - OS X, UNIX
+
+Headphone Jack	- None on iPhone 7 and later, lighting to 3.5mm no longer comes with phone after iPhone XS.
